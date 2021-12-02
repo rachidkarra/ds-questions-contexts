@@ -1,0 +1,740 @@
+[
+    {
+        "Question": "What SQL is designed for?",
+        "Original text": "SQL is the abbreviation for Structured query language. is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS). SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.  Originally based upon relational algebra and tuple relational calculus. SQL types of statements are classed as sublanguages. SQL consists of many types of statements commonly: DQL, DDL, DCL and DML. a data control language (DCL). a data manipulation language (DML). The scope of SQL includes data query, data manipulation (insert, update and delete), data definition (schema creation and modification), and data access control. SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS)",
+        "First answer": "Structured query language",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "SQL is the abbreviation for Structured query language. is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS). SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.  Originally based upon relational algebra and tuple relational calculus. SQL types of statements are classed as sublanguages. SQL consists of many types of statements commonly: DQL, DDL, DCL and DML. a data control language (DCL). a data manipulation language (DML). The scope of SQL includes data query, data manipulation (insert, update and delete), data definition (schema creation and modification), and data access control. SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. SQL is a domain-specific language used in programming . It is  designed for managing data held in a relational database management system (RDBMS)",
+        "Second Answer": "managing data held in a relational database management system",
+        "Second Answer (C/P/W)": "Correct"
+    },
+    {
+        "Question": "What are the advantages of SQL",
+        "Original text": "SQL is the abbreviation for Structured query language. is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS) SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.",
+        "First answer": "ISAM or VSAM",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "DCL",
+        "Original text": "SQL is the abbreviation for Structured query language. is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS) SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.  Originally based upon relational algebra and tuple relational calculus, SQL consists of many types of statements,[6] which may be informally classed as sublanguages, commonly: a data query language (DQL),[a] a data definition language (DDL),[b] a data control language (DCL), and a data manipulation language (DML).",
+        "First answer": "data manipulation language (DML)",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "SQL is the abbreviation for Structured query language. is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS). SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.  Originally based upon relational algebra and tuple relational calculus, SQL consists of many types of statements,[6] which may be informally classed as sublanguages, commonly: a data query language (DQL).[a] a data definition language (DDL). a data control language (DCL). a data manipulation language (DML).",
+        "Second Answer": "data control language",
+        "Second Answer (C/P/W)": "Correct"
+    },
+    {
+        "Question": "what does DML stand for",
+        "Original text": "SQL is the abbreviation for Structured query language is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS). SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.  Originally based upon relational algebra and tuple relational calculus, SQL consists of many types of statements,[6] which may be informally classed as sublanguages, commonly: a data query language (DQL),[a] a data definition language (DDL),[b] a data control language (DCL), and a data manipulation language (DML).",
+        "First answer": "SQL",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "SQL is the abbreviation for Structured query language is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS). SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.  Originally based upon relational algebra and tuple relational calculus, SQL consists of many types of statements,[6] which may be informally classed as sublanguages, commonly: a data query language (DQL),[a] a data definition language (DDL),[b] a data control language (DCL). and a data manipulation language (DML).",
+        "Second Answer": "data manipulation language",
+        "Second Answer (C/P/W)": "Correct"
+    },
+    {
+        "Question": "What is a field",
+        "Original text": "SQL is the abbreviation for Structured query language. is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS) SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command.Every table is broken up into smaller entities called fields. The fields in the Customers table consist of CustomerID, CustomerName, ContactName, Address, City, PostalCode and Country. A field is a column in a table that is designed to maintain specific information about every record in the table.",
+        "First answer": "A field is a column in a table",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "What do you mean by table",
+        "Original text": "SQL is the abbreviation for Structured query language. A JOIN clause is used to combine rows from two or more tables, based on a related column between them. It is used to merge two tables or retrieve data from there. . SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. A table refers to a collection of data in an organised manner in form of rows and columns. A field refers to the number of columns in a table.. Firstly, it introduced the concept of accessing many records with one single command.Every table is broken up into smaller entities called fields. The fields in the Customers table consist of CustomerID, CustomerName, ContactName, Address, City, PostalCode and Country. A field is a column in a table that is designed to maintain specific information about every record in the table.",
+        "First answer": "A table refers to a collection of data in an organised manner",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "What are the differents types of statements in SQL",
+        "Original text": "SQL is the abbreviation for Structured query language. is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS) SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.  Originally based upon relational algebra and tuple relational calculus, SQL consists of many types of statements,[6] which may be informally classed as sublanguages, commonly: a data query language (DQL),[a] a data definition language (DDL),[b] a data control language (DCL), and a data manipulation language (DML).",
+        "First answer": "",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "SQL is the abbreviation for Structured query language. is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS). SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.  Originally based upon relational algebra and tuple relational calculus. SQL types of statements are classed as sublanguages. SQL consists of many types of statements commonly: DQL, DDL, DCL and DML. a data query language (DQL).[a] a data definition language (DDL). a data control language (DCL). a data manipulation language (DML).",
+        "Second Answer": "DQL, DDL, DCL and DML",
+        "Second Answer (C/P/W)": "Correct"
+    },
+    {
+        "Question": " in Wich year SQL become international standard",
+        "Original text": "SQL is the abbreviation for Structured query language. is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS). SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.  Originally based upon relational algebra and tuple relational calculus. SQL types of statements are classed as sublanguages. SQL consists of many types of statements commonly: DQL, DDL, DCL and DML. a data query language (DQL).[a] a data definition language (DDL). a data control language (DCL). a data manipulation language (DML). The scope of SQL includes data query, data manipulation (insert, update and delete), data definition (schema creation and modification), and data access control. SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. ",
+        "First answer": 1986.0,
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "Is semicolon mandatory in SQL",
+        "Original text": "SQL is the abbreviation for Structured query language. is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS). SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.  Originally based upon relational algebra and tuple relational calculus. SQL types of statements are classed as sublanguages. SQL consists of many types of statements commonly: DQL, DDL, DCL and DML. a data query language (DQL).[a] a data definition language (DDL). a data control language (DCL). a data manipulation language (DML). The scope of SQL includes data query, data manipulation (insert, update and delete), data definition (schema creation and modification), and data access control. SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. SQL statements also include the semicolon statement terminator. Though not required on every platform, it is defined as a standard part of the SQL grammar. ",
+        "First answer": "it is defined as a standard part of the SQL grammar",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "does vendor SQL follow the standard",
+        "Original text": "SQL is the abbreviation for Structured query language. is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS). SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.  Originally based upon relational algebra and tuple relational calculus. SQL types of statements are classed as sublanguages. SQL consists of many types of statements commonly: DQL, DDL, DCL and DML. a data query language (DQL).[a] a data definition language (DDL). a data control language (DCL). a data manipulation language (DML). The scope of SQL includes data query, data manipulation (insert, update and delete), data definition (schema creation and modification), and data access control. SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. SQL statements also include the semicolon statement terminator. Though not required on every platform, it is defined as a standard part of the SQL grammar. SQL implementations are incompatible between vendors and do not necessarily completely follow standards. In particular, date and time syntax, string concatenation, NULLs, and comparison case sensitivity vary from vendor to vendor",
+        "First answer": "SQL implementations are incompatible between vendors and do not necessarily completely follow standards",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "Which SQL statement is used to update data?",
+        "Original text": " The SELECT statement is used to select data from a database. The UPDATE statement is used to modify the existing records in a table. The data returned is stored in a result table, called the result-set. SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command.Every table is broken up into smaller entities called fields. The fields in the Customers table consist of CustomerID, CustomerName, ContactName, Address, City, PostalCode and Country. A field is a column in a table that is designed to maintain specific information about every record in the table.",
+        "First answer": "SELECT",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": " The SELECT statement is used to select data from a database. The UPDATE statement is used to modify records. the existing  in a table. The data returned is stored in a result table, called the result-set. SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command.Every table is broken up into smaller entities called fields. The fields in the Customers table consist of CustomerID, CustomerName, ContactName, Address, City, PostalCode and Country. A field is a column in a table that is designed to maintain specific information about every record in the table.",
+        "Second Answer": "UPDATE",
+        "Second Answer (C/P/W)": "Correct"
+    },
+    {
+        "Question": "Which SQL statement is used to extract data from a database?",
+        "Original text": "The SELECT statement is used to select data from a database. The data returned is stored in a result table, called the result-set. SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command.Every table is broken up into smaller entities called fields. The fields in the Customers table consist of CustomerID, CustomerName, ContactName, Address, City, PostalCode and Country. A field is a column in a table that is designed to maintain specific information about every record in the table.",
+        "First answer": "SELECT",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "name some  difference of SQL implementations",
+        "Original text": "SQL is the abbreviation for Structured query language. is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS). SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.  Originally based upon relational algebra and tuple relational calculus. SQL types of statements are classed as sublanguages. SQL consists of many types of statements commonly: DQL, DDL, DCL and DML. a data query language (DQL).[a] a data definition language (DDL). a data control language (DCL). a data manipulation language (DML). The scope of SQL includes data query, data manipulation (insert, update and delete), data definition (schema creation and modification), and data access control. SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. SQL statements also include the semicolon statement terminator. Though not required on every platform, it is defined as a standard part of the SQL grammar.  SQL implementations are incompatible between vendors and do not necessarily completely follow standards like date and time syntax, string concatenation, NULLs, and comparison case sensitivity vary from vendor to vendor ",
+        "First answer": "incompatible between vendors",
+        "First Answer (C/P/W)": "Partial",
+        "Enhanced context": "SQL is the abbreviation for Structured query language. is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS). SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.  Originally based upon relational algebra and tuple relational calculus. SQL types of statements are classed as sublanguages. SQL consists of many types of statements commonly: DQL, DDL, DCL and DML. a data query language (DQL).[a] a data definition language (DDL). a data control language (DCL). a data manipulation language (DML). The scope of SQL includes data query, data manipulation (insert, update and delete), data definition (schema creation and modification), and data access control. SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. SQL statements also include the semicolon statement terminator. Though not required on every platform, it is defined as a standard part of the SQL grammar.  SQL implementations are incompatible between vendors and do not necessarily completely follow standards. like date and time syntax, string concatenation, NULLs, and comparison case sensitivity vary from vendor to vendor ",
+        "Second Answer": "incompatible between vendors and do not necessarily completely follow standards",
+        "Second Answer (C/P/W)": "Correct"
+    },
+    {
+        "Question": "What are some elements of SQL",
+        "Original text": "SQL is the abbreviation for Structured query language. is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS). SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.  Originally based upon relational algebra and tuple relational calculus. SQL types of statements are classed as sublanguages. SQL consists of many types of statements commonly: DQL, DDL, DCL and DML. a data query language (DQL).[a] a data definition language (DDL). a data control language (DCL). a data manipulation language (DML). The scope of SQL includes data query, data manipulation (insert, update and delete), data definition (schema creation and modification), and data access control. SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. SQL statements also include the semicolon statement terminator. Though not required on every platform, it is defined as a standard part of the SQL grammar. SQL implementations are incompatible between vendors and do not necessarily completely follow standards. In particular, date and time syntax, string concatenation, NULLs, and comparison case sensitivity vary from vendor to vendor. The SQL language is subdivided into several language elements, including: Clauses, which are constituent components of statements and queries. (In some cases, these are optional.)[17] Expressions, which can produce either scalar values, or tables consisting of columns and rows of data. Predicates, which specify conditions that can be evaluated to SQL three-valued logic (3VL) (true/false/unknown) or Boolean truth values and are used to limit the effects of statements and queries, or to change program flow. Queries, which retrieve the data based on specific criteria. This is an important element of SQL. Statements, which may have a persistent effect on schemata and data, or may control transactions, program flow, connections, sessions, or diagnostics.",
+        "First answer": "DQL, DDL, DCL and DML",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "What is Expressions",
+        "Original text": "SQL is the abbreviation for Structured query language. is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS). SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.  Originally based upon relational algebra and tuple relational calculus. SQL types of statements are classed as sublanguages. SQL consists of many types of statements commonly: DQL, DDL, DCL and DML. a data query language (DQL).[a] a data definition language (DDL). a data control language (DCL). a data manipulation language (DML). The scope of SQL includes data query, data manipulation (insert, update and delete), data definition (schema creation and modification), and data access control. SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. SQL statements also include the semicolon statement terminator. Though not required on every platform, it is defined as a standard part of the SQL grammar. SQL implementations are incompatible between vendors and do not necessarily completely follow standards. In particular, date and time syntax, string concatenation, NULLs, and comparison case sensitivity vary from vendor to vendor. The SQL language is subdivided into elements including: Clauses, Expression, Predicates and Queries.  Clauses, which are constituent components of statements and queries. (In some cases, these are optional.)[17] Expressions, which can produce either scalar values, or tables consisting of columns and rows of data. Predicates, which specify conditions that can be evaluated to SQL three-valued logic (3VL) (true/false/unknown) or Boolean truth values and are used to limit the effects of statements and queries, or to change program flow. Queries, which retrieve the data based on specific criteria. This is an important element of SQL. Statements, which may have a persistent effect on schemata and data, or may control transactions, program flow, connections, sessions, or diagnostics.",
+        "First answer": "scalar values, or tables consisting of columns and rows of data",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "What is Predicates",
+        "Original text": "SQL is the abbreviation for Structured query language. is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS). SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.  Originally based upon relational algebra and tuple relational calculus. SQL types of statements are classed as sublanguages. SQL consists of many types of statements commonly: DQL, DDL, DCL and DML. a data query language (DQL).[a] a data definition language (DDL). a data control language (DCL). a data manipulation language (DML). The scope of SQL includes data query, data manipulation (insert, update and delete), data definition (schema creation and modification), and data access control. SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. SQL statements also include the semicolon statement terminator. Though not required on every platform, it is defined as a standard part of the SQL grammar. SQL implementations are incompatible between vendors and do not necessarily completely follow standards. In particular, date and time syntax, string concatenation, NULLs, and comparison case sensitivity vary from vendor to vendor.The SQL language is subdivided into several language elements, including: Clauses, which are constituent components of statements and queries. (In some cases, these are optional.)[17] Expressions, which can produce either scalar values, or tables consisting of columns and rows of data Predicates, which specify conditions that can be evaluated to SQL three-valued logic (3VL) (true/false/unknown) or Boolean truth values and are used to limit the effects of statements and queries, or to change program flow. Queries, which retrieve the data based on specific criteria. This is an important element of SQL. Statements, which may have a persistent effect on schemata and data, or may control transactions, program flow, connections, sessions, or diagnostics.",
+        "First answer": "rows of data",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "SQL is the abbreviation for Structured query language. is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS). SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.  Originally based upon relational algebra and tuple relational calculus. SQL types of statements are classed as sublanguages. SQL consists of many types of statements commonly: DQL, DDL, DCL and DML. a data query language (DQL).[a] a data definition language (DDL). a data control language (DCL). a data manipulation language (DML). The scope of SQL includes data query, data manipulation (insert, update and delete), data definition (schema creation and modification), and data access control. SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. SQL statements also include the semicolon statement terminator. Though not required on every platform, it is defined as a standard part of the SQL grammar. SQL implementations are incompatible between vendors and do not necessarily completely follow standards. In particular, date and time syntax, string concatenation, NULLs, and comparison case sensitivity vary from vendor to vendor. The SQL language is subdivided into elements including: Clauses, Expression, Predicates and Queries.  Clauses, which are constituent components of statements and queries. (In some cases, these are optional.)[17] Expressions, which can produce either scalar values, or tables consisting of columns and rows of data. Predicates  which specify conditions that can be evaluated to SQL three-valued logic (true, false, unknown).  It is are used to limit the effects of statements and queries, or to change program flow. Queries, which retrieve the data based on specific criteria. This is an important element of SQL. Statements, which may have a persistent effect on schemata and data, or may control transactions, program flow, connections, sessions, or diagnostics.",
+        "Second Answer": "which specify conditions that can be evaluated to SQL three-valued logic\"",
+        "Second Answer (C/P/W)": "Correct"
+    },
+    {
+        "Question": "SQLCLR",
+        "Original text": " The scope of SQL includes data query, data manipulation (insert, update and delete), data definition (schema creation and modification), and data access control. SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. SQL statements also include the semicolon statement terminator. Though not required on every platform, it is defined as a standard part of the SQL grammar. SQL implementations are incompatible between vendors and do not necessarily completely follow standards. In particular, date and time syntax, string concatenation, NULLs, and comparison case sensitivity vary from vendor to vendor. The SQL language is subdivided into elements including: Clauses, Expression, Predicates and Queries.  Clauses, which are constituent components of statements and queries. (In some cases, these are optional.)[17] Expressions, which can produce either scalar values, or tables consisting of columns and rows of data. Predicates  which specify conditions that can be evaluated to SQL three-valued logic (true, false, unknown).  It is are used to limit the effects of statements and queries, or to change program flow. Queries, which retrieve the data based on specific criteria. This is an important element of SQL. Statements, which may have a persistent effect on schemata and data, or may control transactions, program flow, connections, sessions, or diagnostics. Microsoft SQL Server 2005 uses the SQLCLR (SQL Server Common Language Runtime) to host managed .NET assemblies in the database, while prior versions of SQL Server were restricted to unmanaged extended stored procedures primarily written in C. PostgreSQL lets users write functions in a wide variety of languages\u2014including Perl, Python, Tcl, JavaScript (PL/V8) and C.[21]",
+        "First answer": "runtime",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "The scope of SQL includes data query, data manipulation (insert, update and delete), data definition (schema creation and modification), and data access control. SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. SQL statements also include the semicolon statement terminator. Though not required on every platform, it is defined as a standard part of the SQL grammar. SQL implementations are incompatible between vendors and do not necessarily completely follow standards. In particular, date and time syntax, string concatenation, NULLs, and comparison case sensitivity vary from vendor to vendor. The SQL language is subdivided into elements including: Clauses, Expression, Predicates and Queries.  Clauses, which are constituent components of statements and queries. (In some cases, these are optional.)[17] Expressions, which can produce either scalar values, or tables consisting of columns and rows of data. Predicates  which specify conditions that can be evaluated to SQL three-valued logic (true, false, unknown).  It is are used to limit the effects of statements and queries, or to change program flow. Queries, which retrieve the data based on specific criteria. This is an important element of SQL. Statements, which may have a persistent effect on schemata and data, or may control transactions, program flow, connections, sessions, or diagnostics. Microsoft SQL Server 2005 uses the SQLCLR (SQL Server Common Language Runtime). to host managed .NET assemblies in the database, while prior versions of SQL Server were restricted to unmanaged extended stored procedures primarily written in C. PostgreSQL lets users write functions in a wide variety of languages\u2014including Perl, Python, Tcl, JavaScript (PL/V8) and C.[21]",
+        "Second Answer": "SQL Server Common Language Runtime",
+        "Second Answer (C/P/W)": "Correct"
+    },
+    {
+        "Question": "Why SQL server 2005 use SQLCLR",
+        "Original text": " The scope of SQL includes data query, data manipulation (insert, update and delete), data definition (schema creation and modification), and data access control. SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. SQL statements also include the semicolon statement terminator. Though not required on every platform, it is defined as a standard part of the SQL grammar. SQL implementations are incompatible between vendors and do not necessarily completely follow standards. In particular, date and time syntax, string concatenation, NULLs, and comparison case sensitivity vary from vendor to vendor. The SQL language is subdivided into elements including: Clauses, Expression, Predicates and Queries.  Clauses, which are constituent components of statements and queries. (In some cases, these are optional.)[17] Expressions, which can produce either scalar values, or tables consisting of columns and rows of data. Predicates  which specify conditions that can be evaluated to SQL three-valued logic (true, false, unknown).  It is are used to limit the effects of statements and queries, or to change program flow. Queries, which retrieve the data based on specific criteria. This is an important element of SQL. Statements, which may have a persistent effect on schemata and data, or may control transactions, program flow, connections, sessions, or diagnostics. Microsoft SQL Server 2005 uses the SQLCLR (SQL Server Common Language Runtime) to host managed .NET assemblies in the database, while prior versions of SQL Server were restricted to unmanaged extended stored procedures primarily written in C. PostgreSQL lets users write functions in a wide variety of languages\u2014including Perl, Python, Tcl, JavaScript (PL/V8) and C.[21]",
+        "First answer": "to host managed .NET assemblies in the database",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "which language apart SQL was the only one used in stored procedures",
+        "Original text": "SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. SQL statements also include the semicolon statement terminator. Though not required on every platform, it is defined as a standard part of the SQL grammar. SQL implementations are incompatible between vendors and do not necessarily completely follow standards. In particular, date and time syntax, string concatenation, NULLs, and comparison case sensitivity vary from vendor to vendor. The SQL language is subdivided into elements including: Clauses, Expression, Predicates and Queries.  Clauses, which are constituent components of statements and queries. (In some cases, these are optional.)[17] Expressions, which can produce either scalar values, or tables consisting of columns and rows of data. Predicates  which specify conditions that can be evaluated to SQL three-valued logic (true, false, unknown).  It is are used to limit the effects of statements and queries, or to change program flow. Queries, which retrieve the data based on specific criteria. This is an important element of SQL. Statements, which may have a persistent effect on schemata and data, or may control transactions, program flow, connections, sessions, or diagnostics. Microsoft SQL Server 2005 uses the SQLCLR (SQL Server Common Language Runtime) to host managed .NET assemblies in the database, while prior versions of SQL Server were restricted to unmanaged extended stored procedures primarily written in C. PostgreSQL lets users write functions in a wide variety of languages\u2014including Perl, Python, Tcl, JavaScript (PL/V8) and C.[21]",
+        "First answer": "c. Postgres",
+        "First Answer (C/P/W)": "Partial",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "which other language is used in stored procedures",
+        "Original text": "SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. SQL statements also include the semicolon statement terminator. Though not required on every platform, it is defined as a standard part of the SQL grammar. SQL implementations are incompatible between vendors and do not necessarily completely follow standards. In particular, date and time syntax, string concatenation, NULLs, and comparison case sensitivity vary from vendor to vendor. The SQL language is subdivided into elements including: Clauses, Expression, Predicates and Queries.  Clauses, which are constituent components of statements and queries. (In some cases, these are optional.)[17] Expressions, which can produce either scalar values, or tables consisting of columns and rows of data. Predicates  which specify conditions that can be evaluated to SQL three-valued logic (true, false, unknown).  It is are used to limit the effects of statements and queries, or to change program flow. Queries, which retrieve the data based on specific criteria. This is an important element of SQL. Statements, which may have a persistent effect on schemata and data, or may control transactions, program flow, connections, sessions, or diagnostics. Microsoft SQL Server 2005 uses the SQLCLR (SQL Server Common Language Runtime) to host managed .NET assemblies in the database, while prior versions of SQL Server were restricted to unmanaged extended stored procedures primarily written in C. PostgreSQL lets users write functions in a wide variety of languages\u2014including Perl, Python, Tcl, JavaScript (PL/V8) and C.[21]",
+        "First answer": "SQL",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": " with wich languages you can develop In PostgreSQL",
+        "Original text": "SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. SQL statements also include the semicolon statement terminator. Though not required on every platform, it is defined as a standard part of the SQL grammar. SQL implementations are incompatible between vendors and do not necessarily completely follow standards. In particular, date and time syntax, string concatenation, NULLs, and comparison case sensitivity vary from vendor to vendor. The SQL language is subdivided into elements including: Clauses, Expression, Predicates and Queries.  Clauses, which are constituent components of statements and queries. (In some cases, these are optional.)[17] Expressions, which can produce either scalar values, or tables consisting of columns and rows of data. Predicates  which specify conditions that can be evaluated to SQL three-valued logic (true, false, unknown).  It is are used to limit the effects of statements and queries, or to change program flow. Queries, which retrieve the data based on specific criteria. This is an important element of SQL. Statements, which may have a persistent effect on schemata and data, or may control transactions, program flow, connections, sessions, or diagnostics. Microsoft SQL Server 2005 uses the SQLCLR (SQL Server Common Language Runtime) to host managed .NET assemblies in the database. prior versions of SQL Server were restricted to unmanaged extended stored procedures primarily written in C . PostgreSQL lets users write functions in a wide variety of languages\u2014including Perl, Python, Tcl, JavaScript (PL/V8) and C.[21]",
+        "First answer": "",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "does oracle have TIME type",
+        "Original text": "SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. SQL statements also include the semicolon statement terminator. Though not required on every platform, it is defined as a standard part of the SQL grammar. SQL implementations are incompatible between vendors and do not necessarily completely follow standards. In particular, date and time syntax, string concatenation, NULLs, and comparison case sensitivity vary from vendor to vendor.  This is an important element of SQL. Statements, which may have a persistent effect on schemata and data, or may control transactions, program flow, connections, sessions, or diagnostics. Microsoft SQL Server 2005 uses the SQLCLR (SQL Server Common Language Runtime) to host managed .NET assemblies in the database. prior versions of SQL Server were restricted to unmanaged extended stored procedures primarily written in C . PostgreSQL lets users write functions in a wide variety of languages\u2014including Perl, Python, Tcl, JavaScript (PL/V8) and C. Popular implementations of SQL commonly omit support for basic features of Standard SQL, such as the DATE or TIME data types. The most obvious such examples, and incidentally the most popular commercial and proprietary SQL DBMSs, are Oracle whose DATE behaves as DATETIME,[26][27] and lacks a TIME type)[28] and MS SQL Server (before the 2008 version). As a result, SQL code can rarely be ported between database systems without modifications.",
+        "First answer": "[28]",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. SQL statements also include the semicolon statement terminator. Though not required on every platform, it is defined as a standard part of the SQL grammar. SQL implementations are incompatible between vendors and do not necessarily completely follow standards. In particular, date and time syntax, string concatenation, NULLs, and comparison case sensitivity vary from vendor to vendor.  This is an important element of SQL. Statements, which may have a persistent effect on schemata and data, or may control transactions, program flow, connections, sessions, or diagnostics. Microsoft SQL Server 2005 uses the SQLCLR (SQL Server Common Language Runtime) to host managed .NET assemblies in the database. prior versions of SQL Server were restricted to unmanaged extended stored procedures primarily written in C . PostgreSQL lets users write functions in a wide variety of languages\u2014including Perl, Python, Tcl, JavaScript (PL/V8) and C. Popular implementations of SQL commonly omit support for basic features of Standard SQL, such as the DATE or TIME data types. The most obvious such examples, and incidentally the most popular commercial and proprietary SQL DBMSs, . Oracle whose DATE behaves as DATETIME,[26][27] and lacks a TIME type. and MS SQL Server (before the 2008 version). As a result, SQL code can rarely be ported between database systems without modifications.",
+        "Second Answer": "lacks a TIME type",
+        "Second Answer (C/P/W)": "Correct"
+    },
+    {
+        "Question": "is it easy to port sql code between databases",
+        "Original text": "SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987. SQL statements also include the semicolon statement terminator. Though not required on every platform, it is defined as a standard part of the SQL grammar. SQL implementations are incompatible between vendors and do not necessarily completely follow standards. In particular, date and time syntax, string concatenation, NULLs, and comparison case sensitivity vary from vendor to vendor.  This is an important element of SQL. Statements, which may have a persistent effect on schemata and data, or may control transactions, program flow, connections, sessions, or diagnostics. Microsoft SQL Server 2005 uses the SQLCLR (SQL Server Common Language Runtime) to host managed .NET assemblies in the database. prior versions of SQL Server were restricted to unmanaged extended stored procedures primarily written in C . PostgreSQL lets users write functions in a wide variety of languages\u2014including Perl, Python, Tcl, JavaScript (PL/V8) and C. Popular implementations of SQL commonly omit support for basic features of Standard SQL, such as the DATE or TIME data types. The most obvious such examples, and incidentally the most popular commercial and proprietary SQL DBMSs, are . Oracle whose DATE behaves as DATETIME,[26][27] and lacks a TIME type . and MS SQL Server (before the 2008 version). As a result, SQL code can rarely be ported between database systems without modifications.",
+        "First answer": "SQL code can rarely be ported between database systems without modifications",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "What is a view",
+        "Original text": "SQL is the abbreviation for Structured query language. A JOIN clause is used to combine rows from two or more tables, based on a related column between them. It is used to merge two tables or retrieve data from there. A view is a virtual table which consists of a subset of data contained in a table and can have data of one or more tables combined and it depends on the relationship. Since views are not present, it takes less space to store. . A table refers to a collection of data in an organised manner in form of rows and columns. A field refers to the number of columns in a table. Firstly, SQL introduced the concept of accessing many records with one single command. BETWEEN operator is used to display rows based on a range of values in a row  whereas the IN condition operator is used to check for values contained in a specific set of values. Every table is broken up into smaller entities called fields. The fields in the Customers table consist of CustomerID, CustomerName, ContactName, Address, City, PostalCode and Country. A field is a column in a table that is designed to maintain specific information about every record in the table. Entities:  A person, place, or thing in the real world about which data can be stored in a database. Tables store data that represents one type of entity. For example \u2013 A bank database has a customer table to store customer information. The customer table stores this information as a set of attributes (columns within the table) for each customer.",
+        "First answer": "it takes less space to store",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "SQL is the abbreviation for Structured query language. A JOIN clause is used to combine rows from two or more tables, based on a related column between them. It is used to merge two tables or retrieve data from there. A view is a virtual table which consists of a subset of data contained in a table. It can have data of one or more tables combined and it depends on the relationship. Since views are not present, it takes less space to store. . A table refers to a collection of data in an organised manner in form of rows and columns. A field refers to the number of columns in a table. Firstly, SQL introduced the concept of accessing many records with one single command. BETWEEN operator is used to display rows based on a range of values in a row  whereas the IN condition operator is used to check for values contained in a specific set of values. Every table is broken up into smaller entities called fields. The fields in the Customers table consist of CustomerID, CustomerName, ContactName, Address, City, PostalCode and Country. A field is a column in a table that is designed to maintain specific information about every record in the table. Entities:  A person, place, or thing in the real world about which data can be stored in a database. Tables store data that represents one type of entity. For example \u2013 A bank database has a customer table to store customer information. The customer table stores this information as a set of attributes (columns within the table) for each customer.",
+        "Second Answer": " A View is a virtual table which consists of a subset of data contained in a table",
+        "Second Answer (C/P/W)": "Correct"
+    },
+    {
+        "Question": "why DRDA was developed",
+        "Original text": "PostgreSQL lets users write functions in a wide variety of languages\u2014including Perl, Python, Tcl, JavaScript (PL/V8) and C. Popular implementations of SQL commonly omit support for basic features of Standard SQL, such as the DATE or TIME data types. The most obvious such examples, and incidentally the most popular commercial and proprietary SQL DBMSs, are . Oracle whose DATE behaves as DATETIME,[26][27] and lacks a TIME type . and MS SQL Server (before the 2008 version). As a result, SQL code can rarely be ported between database systems without modifications. Distributed Relational Database Architecture (DRDA) was designed by a work group within IBM from 1988 to 1994. DRDA enables network connected relational databases to cooperate to fulfill SQL requests.",
+        "First answer": "DRDA enables network connected relational databases to cooperate to fulfill SQL requests",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "What is DRDA",
+        "Original text": " PostgreSQL lets users write functions in a wide variety of languages\u2014including Perl, Python, Tcl, JavaScript (PL/V8) and C. Popular implementations of SQL commonly omit support for basic features of Standard SQL, such as the DATE or TIME data types. The most obvious such examples, and incidentally the most popular commercial and proprietary SQL DBMSs, are . Oracle whose DATE behaves as DATETIME,[26][27] and lacks a TIME type . and MS SQL Server (before the 2008 version). As a result, SQL code can rarely be ported between database systems without modifications. Distributed Relational Database Architecture (DRDA) was designed by a work group within IBM from 1988 to 1994. DRDA enables network connected relational databases to cooperate to fulfill SQL requests",
+        "First answer": "Distributed Relational Database Architecture",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "When DRDA was developed",
+        "Original text": " PostgreSQL lets users write functions in a wide variety of languages\u2014including Perl, Python, Tcl, JavaScript (PL/V8) and C. Popular implementations of SQL commonly omit support for basic features of Standard SQL, such as the DATE or TIME data types. The most obvious such examples, and incidentally the most popular commercial and proprietary SQL DBMSs, are . Oracle whose DATE behaves as DATETIME,[26][27] and lacks a TIME type . and MS SQL Server (before the 2008 version). As a result, SQL code can rarely be ported between database systems without modifications. Distributed Relational Database Architecture (DRDA) was designed by a work group within IBM from 1988 to 1994. DRDA enables network connected relational databases to cooperate to fulfill SQL requests.",
+        "First answer": "1988 to 1994",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "What is the role of package name",
+        "Original text": " PostgreSQL lets users write functions in a wide variety of languages\u2014including Perl, Python, Tcl, JavaScript (PL/V8) and C. Popular implementations of SQL commonly omit support for basic features of Standard SQL, such as the DATE or TIME data types. The most obvious such examples, and incidentally the most popular commercial and proprietary SQL DBMSs, are . Oracle whose DATE behaves as DATETIME,[26][27] and lacks a TIME type . and MS SQL Server (before the 2008 version). As a result, SQL code can rarely be ported between database systems without modifications. Distributed Relational Database Architecture (DRDA) was designed by a work group within IBM from 1988 to 1994. DRDA enables network connected relational databases to cooperate to fulfill SQL requests. An interactive user or program can issue SQL statements to a local RDB and receive tables of data and status indicators in reply from remote RDBs. SQL statements can also be compiled and stored in remote RDBs as packages and then invoked by package name. Packaging and invoke package name are  important for the efficient operation of application programs that issue complex, high-frequency queries. It is especially important when the tables to be accessed are located in remote systems.",
+        "First answer": "SQL statements can also be compiled and stored in remote RDBs",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "What is the duplicates problem",
+        "Original text": "An interactive user or program can issue SQL statements to a local RDB and receive tables of data and status indicators in reply from remote RDBs. SQL statements can also be compiled and stored in remote RDBs as packages and then invoked by package name. Packaging and invoke package name are  important for the efficient operation. of application programs. that issue complex, high-frequency queries. package name is especially important when the tables to be accessed are located in remote systems. the Distributed Data Management Architecture define the messages, protocols, and structural components of DRDA . Distributed SQL processing ala DRDA is distinctive from contemporary distributed SQL databases. The concept of Null is the subject of some debates. The Null marker indicates the absence of a value, and is distinct from a value of 0 for an integer column or an empty string for a text column. Duplicates: Another popular criticism is that it allows duplicate rows, making integration with languages such as Python, whose data types might make accurately representing the data difficult,[12] in terms of parsing and by the absence of modularity.",
+        "First answer": "it allows duplicate rows",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "Why package name is so important",
+        "Original text": "PostgreSQL lets users write functions in a wide variety of languages\u2014including Perl, Python, Tcl, JavaScript (PL/V8) and C. Popular implementations of SQL commonly omit support for basic features of Standard SQL, such as the DATE or TIME data types. The most obvious such examples, and incidentally the most popular commercial and proprietary SQL DBMSs, are . Oracle whose DATE behaves as DATETIME,[26][27] and lacks a TIME type . and MS SQL Server (before the 2008 version). As a result, SQL code can rarely be ported between database systems without modifications. Distributed Relational Database Architecture (DRDA) was designed by a work group within IBM from 1988 to 1994. DRDA enables network connected relational databases to cooperate to fulfill SQL requests. An interactive user or program can issue SQL statements to a local RDB and receive tables of data and status indicators in reply from remote RDBs. SQL statements can also be compiled and stored in remote RDBs as packages and then invoked by package name. Packaging and invoke package name are  important for the efficient operation. of application programs. that issue complex, high-frequency queries. it is especially important when the tables to be accessed are located in remote systems.",
+        "First answer": "efficient operation",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "how is the working around sql with python",
+        "Original text": "An interactive user or program can issue SQL statements to a local RDB and receive tables of data and status indicators in reply from remote RDBs. SQL statements can also be compiled and stored in remote RDBs as packages and then invoked by package name. Packaging and invoke package name are  important for the efficient operation. of application programs. that issue complex, high-frequency queries. package name is especially important when the tables to be accessed are located in remote systems. the Distributed Data Management Architecture define the messages, protocols, and structural components of DRDA . Distributed SQL processing ala DRDA is distinctive from contemporary distributed SQL databases. The concept of Null is the subject of some debates. The Null marker indicates the absence of a value, and is distinct from a value of 0 for an integer column or an empty string for a text column. Duplicates: Another popular criticism is that it allows duplicate rows making integration with languages such as Python, whose data types might make accurately representing the data difficult [12] in terms of parsing and by the absence of modularity.",
+        "First answer": "SQL statements can also be compiled and stored in remote RDBs",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "what is the use of Distributed Data Management Architecture",
+        "Original text": "PostgreSQL lets users write functions in a wide variety of languages\u2014including Perl, Python, Tcl, JavaScript (PL/V8) and C. Popular implementations of SQL commonly omit support for basic features of Standard SQL, such as the DATE or TIME data types. The most obvious such examples, and incidentally the most popular commercial and proprietary SQL DBMSs, are . Oracle whose DATE behaves as DATETIME,[26][27] and lacks a TIME type . and MS SQL Server (before the 2008 version). As a result, SQL code can rarely be ported between database systems without modifications. Distributed Relational Database Architecture (DRDA) was designed by a work group within IBM from 1988 to 1994. DRDA enables network connected relational databases to cooperate to fulfill SQL requests. An interactive user or program can issue SQL statements to a local RDB and receive tables of data and status indicators in reply from remote RDBs. SQL statements can also be compiled and stored in remote RDBs as packages and then invoked by package name. Packaging and invoke package name are  important for the efficient operation. of application programs. that issue complex, high-frequency queries. package name is especially important when the tables to be accessed are located in remote systems. The messages, protocols, and structural components of DRDA are defined by the Distributed Data Management Architecture. Distributed SQL processing ala DRDA is distinctive from contemporary distributed SQL databases.",
+        "First answer": "The messages, protocols, and structural components of DRDA",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "What is the UPDATE statement",
+        "Original text": "The SELECT statement is used to select data from a database. The UPDATE statement is used to update the existing records in a table. The data returned is stored in a result table, called the result-set. SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command.Every table is broken up into smaller entities called fields. The fields in the Customers table consist of CustomerID, CustomerName, ContactName, Address, City, PostalCode and Country. A field is a column in a table that is designed to maintain specific information about every record in the table.",
+        "First answer": "The UPDATE statement is used to update the existing records in a table",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "What is the definition of NULL",
+        "Original text": "As a result, SQL code can rarely be ported between database systems without modifications. Distributed Relational Database Architecture (DRDA) was designed by a work group within IBM from 1988 to 1994. DRDA enables network connected relational databases to cooperate to fulfill SQL requests. An interactive user or program can issue SQL statements to a local RDB and receive tables of data and status indicators in reply from remote RDBs. SQL statements can also be compiled and stored in remote RDBs as packages and then invoked by package name. Packaging and invoke package name are  important for the efficient operation. of application programs. that issue complex, high-frequency queries. package name is especially important when the tables to be accessed are located in remote systems. the Distributed Data Management Architecture define the messages, protocols, and structural components of DRDA . Distributed SQL processing ala DRDA is distinctive from contemporary distributed SQL databases. The concept of Null is the subject of some debates. The Null marker indicates the absence of a value, and is distinct from a value of 0 for an integer column or an empty string for a text column",
+        "First answer": "The concept of Null is the subject of some debates",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "As a result, SQL code can rarely be ported between database systems without modifications. Distributed Relational Database Architecture (DRDA) was designed by a work group within IBM from 1988 to 1994. DRDA enables network connected relational databases to cooperate to fulfill SQL requests. An interactive user or program can issue SQL statements to a local RDB and receive tables of data and status indicators in reply from remote RDBs. SQL statements can also be compiled and stored in remote RDBs as packages and then invoked by package name. Packaging and invoke package name are  important for the efficient operation. of application programs. that issue complex, high-frequency queries. package name is especially important when the tables to be accessed are located in remote systems. the Distributed Data Management Architecture define the messages, protocols, and structural components of DRDA . Distributed SQL processing ala DRDA is distinctive from contemporary distributed SQL databases. The concept of Null is the subject of some debates. The Null  indicates the absence of a value and is distinct from 0 or empty. from a value of 0 for an integer column or an empty string for a text column",
+        "Second Answer": "The Null  indicates the absence of a value and is distinct from 0 or empty",
+        "Second Answer (C/P/W)": "Correct"
+    },
+    {
+        "Question": "Which SQL statement is used to return only different values?",
+        "Original text": "The SELECT statement is used to select data from a database. The UPDATE statement is used to modify records. the existing  in a table. The data returned is stored in a result table, called the result-set. SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command.Every table is broken up into smaller entities called fields. The SELECT DISTINCT statement is used to return only distinct (different) values. Inside a table, a column often contains many duplicate values; and sometimes you only want to list the different (distinct) values..",
+        "First answer": "SELECT DISTINCT",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "Which SQL keyword is used to sort the result set?",
+        "Original text": "The SELECT statement is used to select data from a database. An ORDER BY clause in SQL specifies that a SQL SELECT statement returns a result set with the rows being sorted by the values of one or more columns. The sort criteria do not have to be included in the result set. The sort criteria can be expressions, including column names, user-defined functions, arithmetic operations, or CASE expressions. The expressions are evaluated and the results are used for the sorting, i.e., the values stored in the column or the results of the function call.. Firstly, it introduced the concept of accessing many records with one single command.Every table is broken up into smaller entities called fields. The SELECT DISTINCT statement is used to return only distinct (different) values. Inside a table, a column often contains many duplicate values; and sometimes you only want to list the different (distinct) values.",
+        "First answer": "SELECT",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "Which operator is used to select values within a range?",
+        "Original text": "The sort criteria can be expressions, including column names, user-defined functions, arithmetic operations, or CASE expressions. The expressions are evaluated and the results are used for the sorting, i.e., the values stored in the column or the results of the function call. The IN operator allows you to specify multiple values in a WHERE clause. The IN operator is a shorthand for multiple OR conditions. Every table is broken up into smaller entities called fields. The SELECT DISTINCT statement is used to return only distinct (different) values. Inside a table, a column often contains many duplicate values; and sometimes you only want to list the different (distinct) values. The BETWEEN operator selects values within a given range. The values can be numbers, text, or dates. The BETWEEN operator is inclusive: begin and end values are included. ",
+        "First answer": "BETWEEN operator",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "Which operator is used to search for a specified pattern in a column?",
+        "Original text": "The LIKE operator is used in a WHERE clause to search for a specified pattern in a column. There are two wildcards often used in conjunction with the LIKE operator: The percent sign (%) represents zero, one, or multiple characters The underscore sign (_) represents one, single character. The expressions are evaluated and the results are used for the sorting, i.e., the values stored in the column or the results of the function call. The IN operator allows you to specify multiple values in a WHERE clause. The IN operator is a shorthand for multiple OR conditions. Every table is broken up into smaller entities called fields. The SELECT DISTINCT statement is used to return only distinct (different) values. Inside a table, a column often contains many duplicate values; and sometimes you only want to list the different (distinct) values. The BETWEEN operator selects values within a given range. The values can be numbers, text, or dates. The BETWEEN operator is inclusive: begin and end values are included.",
+        "First answer": "LIKE",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "What is the Primary key?",
+        "Original text": "PostgreSQL lets users write functions in a wide variety of languages\u2014including Perl, Python, Tcl, JavaScript (PL/V8) and C. Popular implementations of SQL commonly omit support for basic features of Standard SQL, such as the DATE or TIME data types. The most obvious such examples, and incidentally the most popular commercial and proprietary SQL DBMSs, are . Oracle whose DATE behaves as DATETIME,[26][27] and lacks a TIME type . and MS SQL Server (before the 2008 version). In the relational model of databases, a primary key is a specific choice of a minimal set of attributes (columns) that uniquely specify a tuple (row) in a relation (table).[a][1] Informally, a primary key is which attributes identify a record, and in simple cases constitute a single attribute: a unique ID. More formally, a primary key is a choice of candidate key (a minimal superkey); any other candidate key is an alternate key. A primary key may consist of real-world observables, in which case it is called a natural key, while an attribute created to function as a key and not used for identification outside the database is called a surrogate key. For example, for a database of people (of a given nationality), time and location of birth could be a natural key.[b] National identification number is another example of an attribute that may be used as a natural key. . SQL statements can also be compiled and stored in remote RDBs as packages and then invoked by package name. Packaging and invoke package name are  important for the efficient operation. of application programs. that issue complex, high-frequency queries. it is especially important when the tables to be accessed are located in remote systems.",
+        "First answer": "attributes identify a record",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "What do you mean by IN command",
+        "Original text": "SQL is the abbreviation for Structured query language. A JOIN clause is used to combine rows from two or more tables, based on a related column between them. It is used to merge two tables or retrieve data from there. . SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. A table refers to a collection of data in an organised manner in form of rows and columns. A field refers to the number of columns in a table. Firstly, it  introduced the concept of accessing many records with one single command. BETWEEN operator is used to display rows based on a range of values in a row whereas the IN condition operator is used to check for values contained in a specific set of values. Every table is broken up into smaller entities called fields. The fields in the Customers table consist of CustomerID, CustomerName, ContactName, Address, City, PostalCode and Country. A field is a column in a table that is designed to maintain specific information about every record in the table.",
+        "First answer": "it  introduced the concept of accessing many records with one single command",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "SQL is the abbreviation for Structured query language. A JOIN clause is used to combine rows from two or more tables, based on a related column between them. It is used to merge two tables or retrieve data from there. . SQL offers two main advantages over older read\u2013write APIs such as ISAM or VSAM. A table refers to a collection of data in an organised manner in form of rows and columns. A field refers to the number of columns in a table. Firstly, SQL introduced the concept of accessing many records with one single command. BETWEEN operator is used to display rows based on a range of values in a row  . whereas the IN condition operator is used to check for values contained in a specific set of values. Every table is broken up into smaller entities called fields. The fields in the Customers table consist of CustomerID, CustomerName, ContactName, Address, City, PostalCode and Country. A field is a column in a table that is designed to maintain specific information about every record in the table.",
+        "Second Answer": "IN condition operator is used to check for values contained in a specific set of values",
+        "Second Answer (C/P/W)": "Correct"
+    },
+    {
+        "Question": "",
+        "Original text": "",
+        "First answer": "",
+        "First Answer (C/P/W)": "",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "what is the purpose of object-oriented development in python",
+        "Original text": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects",
+        "First answer": "to help programmers write clear, logical code for small and large-scale projects",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "who is the creator of python",
+        "Original text": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. Guido van Rossum began working on Python in the late 1980s, as a successor to the ABC programming language, and first released it in 1991 as Python 0.9.0.[32] Python 2.0 was released in 2000 and introduced new features, such as list comprehensions and a garbage collection system using reference counting. Python 3.0 was released in 2008 and was a major revision of the language that is not completely backward-compatible. Python 2 was discontinued with version 2.7.18 in 2020.",
+        "First answer": "Guido van Rossum",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "when Python  was first released ",
+        "Original text": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. Guido van Rossum began working on Python in the late 1980s, Python as  successor to the ABC programming language, and first released it in 1991 as Python 0.9.0.[32] .  Python 2.0 was released in 2000 . and introduced new features, such as list comprehensions and a garbage collection system using reference counting. Python 3.0 was released in 2008. and was a major revision of the language that is not completely backward-compatible. Python 2 was discontinued with version 2.7.18 in 2020.",
+        "First answer": 1991.0,
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "when Python 2.0 was released",
+        "Original text": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. Guido van Rossum began working on Python in the late 1980s, Python as  successor to the ABC programming language, and first released it in 1991 as Python 0.9.0.[32]. Python 2.0 was released in 2000 and introduced new features, such as list comprehensions and a garbage collection system using reference counting. Python 3.0 was released in 2008 and was a major revision of the language that is not completely backward-compatible. Python 2 was discontinued with version 2.7.18 in 2020.",
+        "First answer": "Python 3.0 was released in 2008",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. Guido van Rossum began working on Python in the late 1980s, Python as  successor to the ABC programming language, and first released it in 1991 as Python 0.9.0.[32]. Python 2.0 was released in 2000 . and introduced new features, such as list comprehensions and a garbage collection system using reference counting. Python 3.0 was released in 2008 and was a major revision of the language that is not completely backward-compatible. Python 2 was discontinued with version 2.7.18 in 2020.",
+        "Second Answer": 2000.0,
+        "Second Answer (C/P/W)": "Correct"
+    },
+    {
+        "Question": "what is the final version of python 2",
+        "Original text": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. Guido van Rossum began working on Python in the late 1980s, Python as  successor to the ABC programming language, and first released it in 1991 as Python 0.9.0.[32]. Python 2.0 was released in 2000. and introduced new features, such as list comprehensions and a garbage collection system using reference counting. Python 3.0 was released in 2008 and was a major revision of the language that is not completely backward-compatible. Python 2 was discontinued with version 2.7.18 in 2020.",
+        "First answer": "2.7.18 in 2020",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "is python  version 3 compatible with version 2",
+        "Original text": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. Guido van Rossum began working on Python in the late 1980s, Python as  successor to the ABC programming language, and first released it in 1991 as Python 0.9.0.[32]. Python 2.0 was released in 2000. and introduced new features, such as list comprehensions and a garbage collection system using reference counting. Python 3.0 was released in 2008 and was a major revision of the language that is not completely backward-compatible. Python 2 was discontinued with version 2.7.18 in 2020.",
+        "First answer": "Python 2 was discontinued with version 2.7.18 in 2020",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "where did python was developed",
+        "Original text": "Guido van Rossum began working on Python in the late 1980s, Python as  successor to the ABC programming language, and first released it in 1991 as Python 0.9.0.[32]. Python 2.0 was released in 2000. and introduced new features, such as list comprehensions and a garbage collection system using reference counting. Python 3.0 was released in 2008 and was a major revision of the language. Python is not completely backward-compatible. Python 2 was discontinued with version 2.7.18 in 2020. Python was conceived in the late 1980s[38] by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to ABC programming language, which was inspired by SETL,[39] capable of exception handling and interfacing with the Amoeba operating system.[10] ",
+        "First answer": "Netherlands",
+        "First Answer (C/P/W)": "Partial",
+        "Enhanced context": "Guido van Rossum began working on Python in the late 1980s, Python as  successor to the ABC programming language, and first released it in 1991 as Python 0.9.0.[32]. Python 2.0 was released in 2000. and introduced new features, such as list comprehensions and a garbage collection system using reference counting. Python 3.0 was released in 2008 and was a major revision of the language. Python is not completely backward-compatible. Python 2 was discontinued with version 2.7.18 in 2020. Python was conceived in the late 1980s[38] by Guido van Rossum . at Centrum Wiskunde & Informatica (CWI) in the Netherlands. as a successor to ABC programming language, which was inspired by SETL,[39] capable of exception handling and interfacing with the Amoeba operating system.[10]",
+        "Second Answer": "Centrum Wiskunde & Informatica (CWI) in the Netherlands",
+        "Second Answer (C/P/W)": "Correct"
+    },
+    {
+        "Question": "what is the title of Van Rossum",
+        "Original text": " Guido van Rossum began working on Python in the late 1980s, Python as  successor to the ABC programming language, and first released it in 1991 as Python 0.9.0.[32]. Python 2.0 was released in 2000. and introduced new features, such as list comprehensions and a garbage collection system using reference counting. Python 3.0 was released in 2008 and was a major revision of the language. Python is not completely backward-compatible. Python 2 was discontinued with version 2.7.18 in 2020. Python was conceived in the late 1980s[38] by Guido van Rossum . at Centrum Wiskunde & Informatica (CWI) in the Netherlands. as a successor to ABC programming language, which was inspired by SETL,[39] capable of exception handling and interfacing with the Amoeba operating system.[10] Its implementation began in December 1989.[40] Van Rossum shouldered sole responsibility for the project, as the lead developer, until 12 July 2018, when he announced his permanent vacation from his responsibilities as Python's Benevolent Dictator For Life, a title the Python community bestowed upon him to reflect his long-term commitment as the project's chief decision-maker. ",
+        "First answer": "Python's Benevolent Dictator For Life",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "when did  Van Rossum has retired from the project",
+        "Original text": " Guido van Rossum began working on Python in the late 1980s, Python as  successor to the ABC programming language, and first released it in 1991 as Python 0.9.0.[32]. Python 2.0 was released in 2000. and introduced new features, such as list comprehensions and a garbage collection system using reference counting. Python 3.0 was released in 2008 and was a major revision of the language. Python is not completely backward-compatible. Python 2 was discontinued with version 2.7.18 in 2020. Python was conceived in the late 1980s[38] by Guido van Rossum . at Centrum Wiskunde & Informatica (CWI) in the Netherlands. as a successor to ABC programming language, which was inspired by SETL,[39] capable of exception handling and interfacing with the Amoeba operating system.[10] Its implementation began in December 1989.[40] Van Rossum shouldered sole responsibility for the project, as the lead developer, until 12 July 2018, when he announced his permanent vacation from his responsibilities as Python's Benevolent Dictator For Life, a title the Python community bestowed upon him to reflect his long-term commitment as the project's chief decision-maker. ",
+        "First answer": 43293.0,
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "How many members the Steering council has",
+        "Original text": " Guido van Rossum began working on Python in the late 1980s, Python as  successor to the ABC programming language, and first released it in 1991 as Python 0.9.0.[32]. Python 2.0 was released in 2000. and introduced new features, such as list comprehensions and a garbage collection system using reference counting. Python 3.0 was released in 2008 and was a major revision of the language. Python is not completely backward-compatible. Python 2 was discontinued with version 2.7.18 in 2020. Python was conceived in the late 1980s[38] by Guido van Rossum . at Centrum Wiskunde & Informatica (CWI) in the Netherlands. as a successor to ABC programming language, which was inspired by SETL,[39] capable of exception handling and interfacing with the Amoeba operating system.[10] Its implementation began in December 1989.[40] Van Rossum shouldered sole responsibility for the project, as the lead developer, until 12 July 2018, when he announced his permanent vacation from his responsibilities as Python's Benevolent Dictator For Life, a title the Python community bestowed upon him to reflect his long-term commitment as the project's chief decision-maker. In January 2019, active Python core developers elected a 5-member Steering Council to lead the project. ",
+        "First answer": "5-member",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "is Python version 3 compatible with version 2",
+        "Original text": " Guido van Rossum began working on Python in the late 1980s, Python as  successor to the ABC programming language, and first released it in 1991 as Python 0.9.0.[32]. Python 2.0 was released in 2000. and introduced new features, such as list comprehensions and a garbage collection system using reference counting.  Python 2 was discontinued with version 2.7.18 in 2020. Python was conceived in the late 1980s[38] by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to ABC programming language, which was inspired by SETL,[39] capable of exception handling and interfacing with the Amoeba operating system.[10] Its implementation began in December 1989.[40] Van Rossum shouldered sole responsibility for the project, as the lead developer, until 12 July 2018, when he announced his permanent vacation from his responsibilities as Python's Benevolent Dictator For Life, a title the Python community bestowed upon him to reflect his long-term commitment as the project's chief decision-maker. In January 2019, active Python core developers elected a 5-member Steering Council to lead the project. Python 2.7's end-of-life date was initially set at 2015 then postponed to 2020 out of concern that a large body of  existing code could not easily be forward ported to Python version 3. ",
+        "First answer": "Python 2 was discontinued with version 2.7.18 in 2020",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "How Python language was designed ",
+        "Original text": "Python version 2 was discontinued with version 2.7.18 in 2020. Python was conceived in the late 1980s[38] by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to ABC programming language, which was inspired by SETL,[39] capable of exception handling and interfacing with the Amoeba operating system.[10] Its implementation began in December 1989.[40] Van Rossum shouldered sole responsibility for the project  when he announced his permanent vacation from his responsibilities as Python's Benevolent Dictator For Life, a title the Python community bestowed upon him to reflect his long-term commitment as the project's chief decision-maker. In January 2019, active Python core developers elected a 5-member Steering Council to lead the project. Python version 2.7's end-of-life date was initially set at 2015 then postponed to 2020 out of concern that a large body of . Python version 2 could not easily be forward ported to Python version 3. Rather than having all of its functionality built into its core, Python was designed to be highly extensible (with modules). This compact modularity has made it particularly popular as a means of adding programmable interfaces to existing applications. ",
+        "First answer": "Python version 2 could not easily be forward ported to Python version 3",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "Python version 2 was discontinued with version 2.7.18 in 2020. Python was conceived in the late 1980s[38] by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to ABC programming language, which was inspired by SETL,[39] capable of exception handling and interfacing with the Amoeba operating system.[10] Its implementation began in December 1989.[40] Van Rossum shouldered sole responsibility for the project  when he announced his permanent vacation from his responsibilities as Python's Benevolent Dictator For Life, a title the Python community bestowed upon him to reflect his long-term commitment as the project's chief decision-maker. In January 2019, active Python core developers elected a 5-member Steering Council to lead the project. Python version 2.7's end-of-life date was initially set at 2015 then postponed to 2020 out of concern that a large body of . Python version 2 could not easily be forward ported to Python version 3. Rather than having all of its functionality built into its core. Python was designed to be highly extensible (with modules). This compact modularity has made it particularly popular as a means of adding programmable interfaces to existing applications.",
+        "Second Answer": "Python was designed to be highly extensible (with modules)",
+        "Second Answer (C/P/W)": "Correct"
+    },
+    {
+        "Question": "what is the impact of modularity on python",
+        "Original text": "Python version 2 was discontinued with version 2.7.18 in 2020. Python was conceived in the late 1980s[38] by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to ABC programming language, which was inspired by SETL,[39] capable of exception handling and interfacing with the Amoeba operating system.[10] Its implementation began in December 1989.[40] Van Rossum shouldered sole responsibility for the project  when he announced his permanent vacation from his responsibilities as Python's Benevolent Dictator For Life, a title the Python community bestowed upon him to reflect his long-term commitment as the project's chief decision-maker. In January 2019, active Python core developers elected a 5-member Steering Council to lead the project. Python version 2.7's end-of-life date was initially set at 2015 then postponed to 2020 out of concern that a large body of . Python version 2 could not easily be forward ported to Python version 3. Rather than having all of its functionality built into its core. Python was designed to be highly extensible (with modules). This compact modularity has made it particularly popular as a means of adding programmable interfaces to existing applications. ",
+        "First answer": "particularly popular as a means of adding programmable interfaces to existing applications",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "what is perl design philosophy",
+        "Original text": "Python version 2 was discontinued with version 2.7.18 in 2020. Python was conceived in the late 1980s[38] by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to ABC programming language, which was inspired by SETL,[39] capable of exception handling and interfacing with the Amoeba operating system.[10] Its implementation began in December 1989.[40] Van Rossum shouldered sole responsibility for the project  when he announced his permanent vacation from his responsibilities as Python's Benevolent Dictator For Life, a title the Python community bestowed upon him to reflect his long-term commitment as the project's chief decision-maker. In January 2019, active Python core developers elected a 5-member Steering Council to lead the project. Python version 2.7's end-of-life date was initially set at 2015 then postponed to 2020 out of concern that a large body of . Python version 2 could not easily be forward ported to Python version 3. Rather than having all of its functionality built into its core, python was designed to be highly extensible (with modules). This compact modularity has made it particularly popular as a means of adding programmable interfaces to existing applications. Python strives for a simpler, less-cluttered syntax and grammar while giving developers a choice in their coding methodology. In contrast to Perl's there is more than one way to do it motto, Python embraces a there should be one\u2014 and preferably only one \u2014obvious way to do it design philosophy ",
+        "First answer": "there is more than one way to do it",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "what is python design philosophy",
+        "Original text": "Python version 2 was discontinued with version 2.7.18 in 2020. Python was conceived in the late 1980s[38] by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to ABC programming language, which was inspired by SETL,[39] capable of exception handling and interfacing with the Amoeba operating system.[10] Its implementation began in December 1989.[40] Van Rossum shouldered sole responsibility for the project  when he announced his permanent vacation from his responsibilities as Python's Benevolent Dictator For Life, a title the Python community bestowed upon him to reflect his long-term commitment as the project's chief decision-maker. In January 2019, active Python core developers elected a 5-member Steering Council to lead the project. Python version 2.7's end-of-life date was initially set at 2015 then postponed to 2020 out of concern that a large body of . Python version 2 could not easily be forward ported to Python version 3. Rather than having all of its functionality built into its core, python was designed to be highly extensible (with modules). This compact modularity has made it particularly popular as a means of adding programmable interfaces to existing applications. Python strives for a simpler, less-cluttered syntax and grammar while giving developers a choice in their coding methodology.  Perl design philosophy there is more than one way to do it.  Python embraces a there should be one obvious way to do it design philosophy ",
+        "First answer": "Python embraces a there should be one obvious way to do it design philosophy",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "what a programmer has to do if he want speed",
+        "Original text": "Python's developers strive to avoid premature optimization, and reject patches to non-critical parts of the CPython reference implementation that would offer marginal increases in speed at the cost of clarity.[66] When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy, a just-in-time compiler. Cython is also available, which translates a Python script into C and makes direct C-level API calls into the Python interpreter.. Python version 2 could not easily be forward ported to Python version 3. Rather than having all of its functionality built into its core, python was designed to be highly extensible (with modules). This compact modularity has made it particularly popular as a means of adding programmable interfaces to existing applications. Python strives for a simpler, less-cluttered syntax and grammar while giving developers a choice in their coding methodology. In contrast to Perl  design philosophy is more than one way to do it motto. Python embraces a there should be one and preferably only one obvious way to do it ",
+        "First answer": "move time-critical functions to extension modules written in languages",
+        "First Answer (C/P/W)": "Partial",
+        "Enhanced context": "Python's developers strive to avoid premature optimization, and reject patches to non-critical parts of the CPython reference implementation that would offer marginal increases in speed at the cost of clarity.[66] When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy. a just-in-time compiler. Cython is also available, which translates a Python script into C and makes direct C-level API calls into the Python interpreter.. Python version 2 could not easily be forward ported to Python version 3. Rather than having all of its functionality built into its core, python was designed to be highly extensible (with modules). This compact modularity has made it particularly popular as a means of adding programmable interfaces to existing applications. Python strives for a simpler, less-cluttered syntax and grammar while giving developers a choice in their coding methodology. In contrast to Perl  design philosophy is more than one way to do it motto. Python embraces a there should be one and preferably only one obvious way to do it ",
+        "Second Answer": "move time-critical functions to extension modules written in languages such as C or use PyPy",
+        "Second Answer (C/P/W)": "Correct"
+    },
+    {
+        "Question": "did python programmers prefer speed or clarity",
+        "Original text": "Python's developers strive to avoid premature optimization, and reject patches to non-critical parts of the CPython reference implementation that would offer marginal increases in speed at the cost of clarity.[66] When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy. a just-in-time compiler. Cython is also available, which translates a Python script into C and makes direct C-level API calls into the Python interpreter.. Python version 2 could not easily be forward ported to Python version 3. Rather than having all of its functionality built into its core, python was designed to be highly extensible (with modules). This compact modularity has made it particularly popular as a means of adding programmable interfaces to existing applications. Python strives for a simpler, less-cluttered syntax and grammar while giving developers a choice in their coding methodology. In contrast to Perl  design philosophy is more than one way to do it motto. Python embraces a there should be one and preferably only one obvious way to do it ",
+        "First answer": "speed",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "what is the definition of cython",
+        "Original text": "programmers prefer speed over clarity. Python's developers strive to avoid premature optimization, and reject patches to non-critical parts of the CPython reference implementation that would offer marginal increases in speed at the cost of clarity.[66] When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy. a just-in-time compiler. Cython is also available, which translates a Python script into C and makes direct C-level API calls into the Python interpreter.. Python version 2 could not easily be forward ported to Python version 3. Rather than having all of its functionality built into its core, python was designed to be highly extensible (with modules). This compact modularity has made it particularly popular as a means of adding programmable interfaces to existing applications. Python strives for a simpler, less-cluttered syntax and grammar while giving developers a choice in their coding methodology. In contrast to Perl  design philosophy is more than one way to do it motto. Python embraces a there should be one and preferably only one obvious way to do it ",
+        "First answer": "python was designed to be highly extensible (with modules)",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "who are the pythonistas",
+        "Original text": "programmers prefer speed over clarity. Python's developers strive to avoid premature optimization, and reject patches to non-critical parts of the CPython reference implementation that would offer marginal increases in speed at the cost of clarity.[66] When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy. a just-in-time compiler. Cython is a language that translates a Python script into C and makes direct C-level API calls into the Python interpreter.. Python version 2 could not easily be forward ported to Python version 3. Rather than having all of its functionality built into its core, python was designed to be highly extensible (with modules). This compact modularity has made it particularly popular as a means of adding programmable interfaces to existing applications. Python strives for a simpler, less-cluttered syntax and grammar while giving developers a choice in their coding methodology. In contrast to Perl  design philosophy is more than one way to do it motto. Users and admirers of Python, especially those considered knowledgeable or experienced, are often referred to as Pythonistas.",
+        "First answer": "Users and admirers of Python",
+        "First Answer (C/P/W)": "Partial",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "what are the caracteristics of an unpythonic code",
+        "Original text": "programmers prefer speed over clarity. Python's developers strive to avoid premature optimization, and reject patches to non-critical parts of the CPython reference implementation that would offer marginal increases in speed at the cost of clarity.[66] When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy. a just-in-time compiler. Cython is a language that translates a Python script into C and makes direct C-level API calls into the Python interpreter.. Python version 2 could not easily be forward ported to Python version 3. Rather than having all of its functionality built into its core, python was designed to be highly extensible (with modules).A common neologism in the Python community is pythonic, which can have a wide range of meanings related to program style. To say that code is pythonic is to say that it uses Python idioms well, that it is natural or shows fluency in the language, that it conforms with Python's minimalist philosophy and emphasis on readability. In contrast, code that is difficult to understand or reads like a rough transcription from another programming language is called unpythonic",
+        "First answer": "code that is difficult to understand or reads like a rough transcription from another programming language",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "what are the caracteristics of a pythonic code",
+        "Original text": "programmers prefer speed over clarity. Python's developers strive to avoid premature optimization, and reject patches to non-critical parts of the CPython reference implementation that would offer marginal increases in speed at the cost of clarity.[66] When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy. a just-in-time compiler. Cython is a language that translates a Python script into C and makes direct C-level API calls into the Python interpreter.. Python version 2 could not easily be forward ported to Python version 3. Rather than having all of its functionality built into its core, python was designed to be highly extensible (with modules).A common neologism in the Python community is pythonic, which can have a wide range of meanings related to program style. To say that code is pythonic is to say that it uses Python idioms well, that it is natural or shows fluency in the language. that it conforms with Python's minimalist philosophy and emphasis on readability. In contrast, code that is difficult to understand or reads like a rough transcription from another programming language is called unpythonic",
+        "First answer": "it is natural or shows fluency in the language",
+        "First Answer (C/P/W)": "Partial",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "what is the recommended indentation size  in python",
+        "Original text": " Unlike many other languages, it does not use curly brackets to delimit blocks, and semicolons. after statements are allowed but are rarely, if ever, used. . When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy. a just-in-time compiler. Cython is a language that translates a Python script into C and makes direct C-level API calls into the Python interpreter.. Python uses whitespace indentation to delimit blocks. An increase in indentation comes after certain statements; a decrease in indentation signifies the end of the current block.[75] Thus, the program's visual structure accurately represents the program's semantic structure. This feature is sometimes termed the off-side rule, which some other languages share, but in most languages indentation does not have any semantic meaning. The recommended indent size is four spaces ",
+        "First answer": "four spaces",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "what is the use of the whitespace",
+        "Original text": "Unlike many other languages, it does not use curly brackets to delimit blocks, and semicolons. after statements are allowed but are rarely, if ever, used. . When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy. a just-in-time compiler. Cython is a language that translates a Python script into C and makes direct C-level API calls into the Python interpreter.. Python uses whitespace indentation, rather than curly brackets or keywords, to delimit blocks. An increase in indentation comes after certain statements; a decrease in indentation signifies the end of the current block.[75] Thus, the program's visual structure accurately represents the program's semantic structure.",
+        "First answer": "Python uses whitespace indentation, rather than curly brackets or keywords, to delimit blocks",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "what the  visual structure represent",
+        "Original text": "Unlike many other languages, it does not use curly brackets to delimit blocks, and semicolons. after statements are allowed but are rarely, if ever, used. . When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy. a just-in-time compiler. Cython is a language that translates a Python script into C and makes direct C-level API calls into the Python interpreter.. Python uses whitespace indentation, rather than curly brackets or keywords, to delimit blocks. An increase in indentation comes after certain statements; a decrease in indentation signifies the end of the current block.[75] Thus, the program's visual structure accurately represents the program's semantic structure.",
+        "First answer": "semantic structure",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "what does python use to delimit blocks",
+        "Original text": "Unlike many other languages, it does not use curly brackets to delimit blocks, and semicolons. after statements are allowed but are rarely, if ever, used. . When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy. a just-in-time compiler. Cython is a language that translates a Python script into C and makes direct C-level API calls into the Python interpreter.. Python uses whitespace indentation, rather than curly brackets or keywords, to delimit blocks. An increase in indentation comes after certain statements; a decrease in indentation signifies the end of the current block.[75] Thus, the program's visual structure accurately represents the program's semantic structure.",
+        "First answer": "whitespace indentation",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "What is the meaning of indentation in other languages",
+        "Original text": " Unlike many other languages, it does not use curly brackets to delimit blocks, and semicolons. after statements are allowed but are rarely, if ever, used. . When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy. a just-in-time compiler. Cython is a language that translates a Python script into C and makes direct C-level API calls into the Python interpreter.. Python uses whitespace indentation to delimit blocks. An increase in indentation comes after certain statements; a decrease in indentation signifies the end of the current block.[75] Thus, the program's visual structure accurately represents the program's semantic structure. This feature is sometimes termed the off-side rule, which some other languages share, but in most languages indentation does not have any semantic meaning. The recommended indent size is four spaces ",
+        "First answer": "in most languages indentation does not have any semantic meaning",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "what is the other name of python's indentation ",
+        "Original text": "The assignment statement, using a single equals sign.  after statements are allowed but are rarely, if ever, used. . When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy. a just-in-time compiler. Cython is a language that translates a Python script into C and makes direct C-level API calls into the Python interpreter.. Python uses whitespace indentation to delimit blocks. An increase in indentation comes after certain statements; a decrease in indentation signifies the end of the current block.[75] Thus, the program's visual structure accurately represents the program's semantic structure. This feature is sometimes termed the off-side rule, which some other languages share, but in most languages indentation does not have any semantic meaning. The recommended indent size is four spaces ",
+        "First answer": "whitespace",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "what is the assignment symbol in python",
+        "Original text": " The assignment statement, using a single equals sign =.  after statements are allowed but are rarely, if ever, used. . When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy. a just-in-time compiler. Cython is a language that translates a Python script into C and makes direct C-level API calls into the Python interpreter.. Python uses whitespace indentation to delimit blocks. An increase in indentation comes after certain statements; a decrease in indentation signifies the end of the current block.[75] Thus, the program's visual structure accurately represents the program's semantic structure. This feature is sometimes termed the off-side rule, which some other languages share, but in most languages indentation does not have any semantic meaning. The recommended indent size is four spaces ",
+        "First answer": "a single equals sign =",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "is python assignment by pointer or reference",
+        "Original text": " The assignment statement, using a single equals sign =. The assignment statement (=) operates by binding a name as a reference to a separate, dynamically-allocated object. after statements are allowed but are rarely, if ever, used. . When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy. a just-in-time compiler. Cython is a language that translates a Python script into C and makes direct C-level API calls into the Python interpreter.. Python uses whitespace indentation to delimit blocks. An increase in indentation comes after certain statements; a decrease in indentation signifies the end of the current block.[75] Thus, the program's visual structure accurately represents the program's semantic structure. This feature is sometimes termed the off-side rule, which some other languages share, but in most languages indentation does not have any semantic meaning. The recommended indent size is four spaces ",
+        "First answer": "binding a name as a reference",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "What are the principal python data types",
+        "Original text": " The assignment statement, using a single equals sign =. The assignment statement (=) operates by binding a name as a reference to a separate, dynamically-allocated object.  after statements are allowed but are rarely, if ever, used. . When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy. a just-in-time compiler. Cython is a language that translates a Python script into C and makes direct C-level API calls into the Python interpreter.. Python uses whitespace indentation to delimit blocks. An increase in indentation comes after certain statements; a decrease in indentation signifies the end of the current block.[75] Thus, the program's visual structure accurately represents the program's semantic structure. Python's built-in (or standard) data types can be grouped into several classes. Sticking to the hierarchy scheme used in the official Python documentation these are numeric types, sequences, sets and mappings (and a few more not discussed further here). Some of the types are only available in certain versions of the language as noted below.",
+        "First answer": "Python's built-in (or standard) data types can be grouped into several classes",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "The assignment statement, using a single equals sign =. The assignment statement (=) operates by binding a name as a reference to a separate, dynamically-allocated object.  after statements are allowed but are rarely, if ever, used. . When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy. a just-in-time compiler. Cython is a language that translates a Python script into C and makes direct C-level API calls into the Python interpreter.. Python uses whitespace indentation to delimit blocks. An increase in indentation comes after certain statements; a decrease in indentation signifies the end of the current block.[75] Thus, the program's visual structure accurately represents the program's semantic structure. Python's built-in (or standard) data types can be grouped into several classes. Sticking to the hierarchy scheme used in the official . Python documentation these are numeric types, sequences, sets and mappings . (and a few more not discussed further here). Some of the types are only available in certain versions of the language as noted below.",
+        "Second Answer": "Python documentation these are numeric types, sequences, sets and mappings",
+        "Second Answer (C/P/W)": "Correct"
+    },
+    {
+        "Question": "What are the tuples",
+        "Original text": " The assignment statement, using a single equals sign =. The assignment statement (=) operates by binding a name as a reference to a separate, dynamically-allocated object.  after statements are allowed but are rarely, if ever, used. . When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy. a just-in-time compiler. Python makes a distinction between lists and tuples. Lists are written as [1, 2, 3], are mutable, and cannot be used as the keys of dictionaries (dictionary keys must be immutable in Python). Tuples are written as (1, 2, 3), are immutable and thus can be used as the keys of dictionaries, provided all elements of the tuple are immutable. Python tuples are a data structure that store an ordered sequence of values. Tuples are immutable. This means you cannot change the values in a tuple. Tuples are defined with parenthesis.  Python's built-in (or standard) data types can be grouped into several classes. Sticking to the hierarchy scheme used in the official . Python documentation these are numeric types, sequences, sets and mappings . (and a few more not discussed further here). Some of the types are only available in certain versions of the language as noted below.",
+        "First answer": "Tuples are written as (1, 2, 3",
+        "First Answer (C/P/W)": "Partial",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "name some python web frameworks",
+        "Original text": "When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy. a just-in-time compiler. Python makes a distinction between lists and tuples. Lists are written as [1, 2, 3], are mutable, and cannot be used as the keys of dictionaries (dictionary keys must be immutable in Python). Tuples are written as (1, 2, 3), are immutable and thus can be used as the keys of dictionaries, provided all elements of the tuple are immutable. tuples are a immutable data structure that store an ordered sequence of values. Python can serve as a scripting language for web applications, e.g., via mod_wsgi for the Apache web server.[181] With Web Server Gateway Interface, a standard API has evolved to facilitate these applications. Web frameworks like Django, Pylons, Pyramid, TurboGears, web2py, Tornado, Flask, Bottle and Zope support developers in the design and maintenance of complex applications. ",
+        "First answer": "Zope",
+        "First Answer (C/P/W)": "Partial",
+        "Enhanced context": "When speed is important a Python programmer can move time-critical functions to extension modules written in languages such as C or use PyPy. a just-in-time compiler. Python makes a distinction between lists and tuples. Lists are written as [1, 2, 3], are mutable, and cannot be used as the keys of dictionaries (dictionary keys must be immutable in Python). Tuples are written as (1, 2, 3), are immutable and thus can be used as the keys of dictionaries, provided all elements of the tuple are immutable. tuples are a immutable data structure that store an ordered sequence of values. Python can serve as a scripting language for web applications, e.g., via mod_wsgi for the Apache web server.[181] With Web Server Gateway Interface, a standard API has evolved to facilitate these applications. Web frameworks like Django, Pylons, Pyramid, TurboGears, web2py. Tornado, Flask, Bottle and Zope. support developers in the design and maintenance of complex applications. ",
+        "Second Answer": "Django, Pylons, Pyramid, TurboGears, web2py",
+        "Second Answer (C/P/W)": "Correct"
+    },
+    {
+        "Question": "name some python popular libraries",
+        "Original text": " As a scripting language with modular architecture, simple syntax and rich text processing tools, Python is often used for natural language processing. Libraries such as NumPy, SciPy and Matplotlib allow the effective use of Python in scientific computing,[182][183] with specialized libraries such as Biopython and Astropy providing domain-specific functionality. SageMath is a computer algebra system with a notebook interface programmable in Python.  Python is commonly used in artificial intelligence projects and machine learning projects with the help of libraries like TensorFlow, Keras, Pytorch and Scikit-learn. Python can serve as a scripting language for web applications, e.g., via mod_wsgi for the Apache web server.[181] With Web Server Gateway Interface, a standard API has evolved to facilitate these applications. Web frameworks like Django, Pylons, Pyramid, TurboGears, web2py. Tornado, Flask, Bottle and Zope. support developers in the design and maintenance of complex applications.",
+        "First answer": "Biopython and Astropy",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "What is the definition of NONE",
+        "Original text": "As a scripting language with modular architecture, simple syntax and rich text processing tools, Python is often used for natural language processing. Libraries such as NumPy, SciPy and Matplotlib allow the effective use of Python in scientific computing. [182][183] with specialized libraries such as Biopython and Astropy providing domain-specific functionality. SageMath is a computer algebra system with a notebook interface programmable in Python.  Python is commonly used in artificial intelligence projects and machine learning projects with the help of libraries like TensorFlow, Keras, Pytorch and Scikit-learn. Python can serve as a scripting language for web applications, e.g., via mod_wsgi for the Apache web server.The Python analogue of null pointer known from other programming languages is None. None is not a null pointer or a null reference . It is an object of which there is only one instance. One of the uses of None is in default argument values of functions",
+        "First answer": "None is not a null pointer or a null reference",
+        "First Answer (C/P/W)": "Partial",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "What is the use of NONE",
+        "Original text": "  As a scripting language with modular architecture, simple syntax and rich text processing tools, Python is often used for natural language processing. Libraries such as NumPy, SciPy and Matplotlib allow the effective use of Python in scientific computing. [182][183] with specialized libraries such as Biopython and Astropy providing domain-specific functionality. SageMath is a computer algebra system with a notebook interface programmable in Python.  Python is commonly used in artificial intelligence projects and machine learning projects with the help of libraries like TensorFlow, Keras, Pytorch and Scikit-learn. Python can serve as a scripting language for web applications, e.g., via mod_wsgi for the Apache web server.The Python analogue of null pointer known from other programming languages is None. It is not a null pointer or a null reference but an actual object of which there is only one instance. It is the default argument values of functions ",
+        "First answer": "Python is often used for natural language processing",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "How do you insert COMMENTS",
+        "Original text": "As a scripting language with modular architecture, simple syntax and rich text processing tools, Python is often used for natural language processing. Libraries such as NumPy, SciPy and Matplotlib allow the effective use of Python in scientific computing. [182][183] with specialized libraries such as Biopython and Astropy providing domain-specific functionality. Comments can be used to explain Python code. Comments can be used to make the code more readable and can be used to prevent execution when testing code. It starts with a # and Python will ignore them. Python is commonly used in artificial intelligence projects and machine learning projects with the help of libraries like TensorFlow, Keras, Pytorch and Scikit-learn. Python can serve as a scripting language for web applications, e.g., via mod_wsgi for the Apache web server. The Python analogue of null pointer known from other programming languages is None. None is not a null pointer or a null reference but an actual object of which there is only one instance. One of the uses of None is in default argument values of functions ",
+        "First answer": "Comments can be used to make the code more readable",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "What is the correct file extension for Python files?",
+        "Original text": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc). Python has a simple syntax similar to the English language. Python has syntax that allows developers to write programs with fewer lines than some other programming languages. Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick. Python can be treated in a procedural way, an object-oriented way or a functional way.. Or by creating a python file on the server, using the .py file extension, and running it in the Command Line. Python 2.0 was released in 2000. and introduced new features, such as list comprehensions and a garbage collection system using reference counting. Python 3.0 was released in 2008 and was a major revision of the language that python 3 is not completely backward-compatible. Indentation refers to the spaces at the beginning of a code line. Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important. Python uses indentation to indicate a block of code.",
+        "First answer": ".py",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "Which method can be used to return a string in upper case letters?",
+        "Original text": " Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc). Python has a simple syntax similar to the English language. Python has syntax that allows developers to write programs with fewer lines than some other programming languages. rsplit() Splits the string at the specified separator, and returns a list. rstrip() Returns a right trim version of the string. split() Splits the string at the specified separator, and returns a list. splitlines() Splits the string at line breaks and returns a list. startswith() Returns true if the string starts with the specified value. strip() Returns a trimmed version of the string. swapcase() Swaps cases, lower case becomes upper case and vice versa. title() Converts the first character of each word to upper case. translate() Returns a translated string. upper() Converts a string into upper case",
+        "First answer": "swapcase",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "Which method can be used to replace parts of a string?",
+        "Original text": " Python has a simple syntax similar to the English language. Python has syntax that allows developers to write programs with fewer lines than some other programming languages. rsplit() Splits the string at the specified separator, and returns a list. rstrip() Returns a right trim version of the string. split() Splits the string at the specified separator, and returns a list. splitlines() Splits the string at line breaks and returns a list. startswith() Returns true if the string starts with the specified value. strip() Returns a trimmed version of the string. swapcase() Swaps cases, lower case becomes upper case and vice versa. The replace() method replaces a string with another string. translate() Returns a translated string. upper() Converts a string into upper case",
+        "First answer": "swaps",
+        "First Answer (C/P/W)": "Wrong",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "Which operator can be used to test the equality two values  ?",
+        "Original text": "  Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc). Python has a simple syntax similar to the English language. Python has syntax that allows developers to write programs with fewer lines than some other programming languages. rsplit() Splits the string at the specified separator, and returns a list. rstrip() Returns a right trim version of the string. split() Splits the string at the specified separator, and returns a list. splitlines() Splits the string at line breaks and returns a list. startswith() Returns true if the string starts with the specified value. strip() Returns a trimmed version of the string. swapcase Swaps cases, lower case becomes upper case and vice versa. The equal operator == is used to compare two values . title() Converts the first character of each word to upper case. translate() Returns a translated string. upper Converts a string into upper case",
+        "First answer": "equal operator ==",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    },
+    {
+        "Question": "Which collection does not allow duplicate members?",
+        "Original text": "List items are ordered, changeable, and allow duplicate values. Sets are used to store multiple items in a single variable. Set is one of 4 built-in data types in Python used to store collections of data, the other 3 are List, Tuple, and Dictionary, all with different qualities and usage. A set is a collection which is both unordered and unindexed. . Set items are unordered, unchangeable, and do not allow duplicate values. Python has a simple syntax similar to the English language. Python has syntax that allows developers to write programs with fewer lines than some other programming languages. rsplit() Splits the string at the specified separator, and returns a list. rstrip() Returns a right trim version of the string. split() Splits the string at the specified separator, and returns a list. splitlines() Splits the string at line breaks and returns a list. startswith() Returns true if the string starts with the specified value. strip() Returns a trimmed version of the string. swapcase Swaps cases, lower case becomes upper case and vice versa.Lists are used to store multiple items in a single variable. Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.",
+        "First answer": "Set items",
+        "First Answer (C/P/W)": "Correct",
+        "Enhanced context": "",
+        "Second Answer": "",
+        "Second Answer (C/P/W)": ""
+    }
+]
